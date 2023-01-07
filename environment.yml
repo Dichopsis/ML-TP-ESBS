@@ -1,0 +1,13 @@
+name: TD2_ML
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - optuna
+  - scikit-learn
+  - ipykernel
+  - matplotlib
+  - jupyter
+  - numpy
+  - pandas
+prefix: /home/corentin/mambaforge/envs/TD2_ML
