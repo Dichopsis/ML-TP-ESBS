@@ -3,10 +3,14 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
+  - optuna
   - scikit-learn
   - ipykernel
   - matplotlib
   - jupyter
   - numpy
   - pandas
+  - fastapi
+  - uvicorn
+  - requests
 prefix: /home/corentin/mambaforge/envs/TD2_ML
