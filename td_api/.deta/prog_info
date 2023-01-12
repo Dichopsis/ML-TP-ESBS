@@ -1,1 +1,1 @@
-{"id":"1c4792e8-56fc-4394-bc2f-d5db3444e53c","space":47511,"runtime":"python3.9","name":"td_api","path":"9mi39w","project":"a06z2p6x","account":"144798365827","region":"eu-central-1","deps":["fastapi","scikit-learn"],"envs":null,"public":true,"log_level":"off","cron":""}
+{"id":"6b5bd9a8-d24c-45e8-b799-8263361f482a","space":47511,"runtime":"python3.9","name":"td_api","path":"rz4ecj","project":"a06z2p6x","account":"144798365827","region":"eu-central-1","deps":["fastapi","scikit-learn","deta","python-dotenv"],"envs":null,"public":true,"log_level":"off","cron":""}
