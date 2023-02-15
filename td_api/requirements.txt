@@ -1,4 +1,4 @@
-fastapi
-scikit-learn
 deta
 python-dotenv
+fastapi
+scikit-learn

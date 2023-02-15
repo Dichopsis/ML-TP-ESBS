@@ -12,7 +12,7 @@ load_dotenv()
 app = FastAPI()
 
 # initialize with a project key
-deta = Deta(os.getenv("DETAKEY"))
+deta = Deta(os.getenv("DETA_PROJECT_KEY"))
 
 # create and use DBs
 leaderboard_db = deta.Base("leaderboard")
