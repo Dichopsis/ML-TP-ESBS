@@ -14,7 +14,7 @@ Because it is provided by Google, you will need a Google Account for this to wor
 **Google Colab usage**
 
 1. Go to: https://colab.research.google.com/
-2. On the pop-up to select Notebook, select the Github Tab and enter this link: https://github.com/Dichopsis/ML-TD-ESBS-2 and select the notebook showing (TD2_Machine_Learning.ipynb).
+2. On the pop-up to select Notebook, select the Github Tab and enter this link: https://github.com/Dichopsis/ML-TP-ESBS and select the notebook showing (TP_Machine_Learning.ipynb).
 3. You should be able to run the notebook and start writing code! Create a cell and run `print("Hello World")` to check if everything is good!
 
 ### **Congratulations** you should now be ready to code for the TD! You should read the second part at least for the informations that it contains ;)
@@ -32,9 +32,8 @@ It makes everything run on your computer instead of relying on Google's one. I w
 
 1. **Git**  
    To Install Git: [Git](https://git-scm.com/downloads) (should already be installed on all Linux)
-   Git is command-line software used in informatics to do code versioning (tracking modifications and updates). In any informatics project you WILL be using it. In this TD we will only use Git to download the TD Code from a GitHub Repository using the command in a terminal:  
-   `git clone https://github.com/Dichopsis/ML-TD-ESBS-2.git`.  
-   For people that do not want to use Git and could not install it the code is also available as a .zip file [HERE](https://github.com/lambda-science/ML-TD-ESBS-2/archive/refs/heads/main.zip)
+   Git is command-line software used in informatics to do code versioning (tracking modifications and updates). In any informatics project you WILL be using it. In this TD we will only use Git to download the TP Code from a GitHub Repository using the command in a terminal:  
+   `git clone https://github.com/Dichopsis/ML-TP-ESBS.git`. 
 
 2. **Anaconda envrionnement**  
    Anaconda is a python distribution and package manager. It is the preferred way for data-scientist to install Python. We will use Anaconda to install our **python environment**. An environment is a python installation with a specific set of libraries installed. This way we can ensure that we all have the same package installed with the same version.  
@@ -45,12 +44,12 @@ It makes everything run on your computer instead of relying on Google's one. I w
    `conda env create -f environment.yml`  
    Note: If an error occurs such as `conda is not a valid command` you might need to use the anaconda prompt software for the command. Also, environment are heavy (1.5-2gb here) and can take some time to install.  
    You can now activate your environment in your current terminal using:  
-   `conda activate TD2_ML`. Your command-line should now look like `(TD2-ML) you@computername:~`  
-   (For WINDOWS please use Anaconda Prompt terminal or run `C:\ProgramData\Anaconda3\Scripts\activate base` before `conda activate TD2_ML` if it doesn't work)
+   `conda activate TP_ML`. Your command-line should now look like `(TP-ML) you@computername:~`  
+   (For WINDOWS please use Anaconda Prompt terminal or run `C:\ProgramData\Anaconda3\Scripts\activate base` before `conda activate TP_ML` if it doesn't work)
 
 3. **Jupyter Notebooks**  
    Jupyter Notebook is the main tool of any data-scientist. It allows you to write and run python code dynamically without reloading all the code, data and variables everytime.  
-   It is structured as blocks of code that you can run and edit independently. In this TD, our main worksheet will be the `TD2_Machine_Learning.ipynb` Jupyter Notebook.  
+   It is structured as blocks of code that you can run and edit independently. In this TP, our main worksheet will be the `TP_Machine_Learning.ipynb` Jupyter Notebook.  
    You have several options to open Jupyter Notebooks.
 
 ### Using the Tools
@@ -62,7 +61,7 @@ It makes everything run on your computer instead of relying on Google's one. I w
 - **The 2nd Way:** Use [VSCode](https://code.visualstudio.com/)  
   Install the python extension. VSCode is able to natively open Jupyter Notebook with a great interface and without a server. Just select the right python environment and you're ready to go !
 
-### **Congratulations** You should now be ready to code for the TD. Simply open the .ipynb file using jupyter-notebook or VSCode !
+### **Congratulations** You should now be ready to code for the TP. Simply open the .ipynb file using jupyter-notebook or VSCode !
 
 </p>
 </details>
