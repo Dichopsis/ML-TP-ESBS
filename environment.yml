@@ -1,4 +1,4 @@
-name: TD2_ML
+name: TP
 channels:
   - conda-forge
 dependencies:
