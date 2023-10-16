@@ -17,7 +17,7 @@ Because it is provided by Google, you will need a Google Account for this to wor
 2. On the pop-up to select Notebook, select the Github Tab and enter this link: https://github.com/Dichopsis/ML-TP-ESBS and select the notebook showing (TP_Machine_Learning.ipynb).
 3. You should be able to run the notebook and start writing code! Create a cell and run `print("Hello World")` to check if everything is good!
 
-### **Congratulations** you should now be ready to code for the TD! You should read the second part at least for the informations that it contains ;)
+### **Congratulations** you should now be ready to code for the TP! You should read the second part at least for the informations that it contains ;)
 
 </br>
 
